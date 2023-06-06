@@ -1,0 +1,2 @@
+SELECT passwords
+FROM NASA
